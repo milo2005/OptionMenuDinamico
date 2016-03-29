@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExMenu</string>
+    <string name="hide">Ocultar</string>
+    <string name="show_1">Mostrar Menu 1</string>
+    <string name="show_2">Mostrar menu 2</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_ok">Todo 10</string>
+</resources>
